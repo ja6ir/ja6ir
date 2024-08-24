@@ -20,8 +20,8 @@ I am a passionate tech enthusiast with a Bachelor's degree in Computer Science, 
 - Backend systems requiring efficient and reliable solutions.
 
 ### 📫 How to Reach Me
-- **Email:** hussainmuhammedjabir@gmail.com(mailto:hussainmuhammedjabir@gmail.com)
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/muhammed-jabir-hussain-k-m/)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammed-jabir-hussain-k-m/))
+- **Email:** hussainmuhammedjabir@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/muhammed-jabir-hussain-k-m/
 - **GitHub:** Feel free to explore my repositories and connect!
 
 ### 😄 Pronouns
